@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MiniEx.Api/MiniEx.Api.csproj" />
+  <Project Path="MiniEx.Application/MiniEx.Application.csproj" />
+  <Project Path="MiniEx.Domain/MiniEx.Domain.csproj" />
+  <Project Path="MiniEx.Infrastructure/MiniEx.Infrastructure.csproj" />
+</Solution>

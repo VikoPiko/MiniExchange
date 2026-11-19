@@ -1,0 +1,6 @@
+@MiniEx.Api_HostAddress = http://localhost:5271
+
+GET {{MiniEx.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
